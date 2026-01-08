@@ -26,4 +26,4 @@ This project focuses heavily on **Asynchronous JavaScript** and handling API res
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/moradhi/github-api-project.git](https://github.com/moradhi/github-api-project.git)
+   git clone https://github.com/moradhi/github-api-project.git
